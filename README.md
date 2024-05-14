@@ -1,5 +1,5 @@
 # Deployment-of-MERN-on-K8s
------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
 The deployment of a MERN (MongoDB, Expressjs, React and Nodejs) web using the base images on a Kubernetes Cluster. 
 * The mongodb image was used to build the container image which was used to deploy the MERN app. 
 
